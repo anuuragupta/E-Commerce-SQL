@@ -1,7 +1,7 @@
 
 <h1><strong>E-Commerce Analysis using MySQL</h1></strong>
 
-<p><img align="right" width="450" src="https://media2.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" alt="anuuragupta" /></p>
+<p><img align="right" width="450" src="https://blog.gemfind.com/hubfs/ecommerce-subway-studio-malaysia%20%281%29.gif" alt="anuuragupta" /></p>
 
 <n><strong>. Sales performance: By analyzing the 'Amount' and 'Profit' columns in the 'order details' table, we can understand the sales performance of the business over time. We can also compare the sales performance of different categories and sub-categories using the same table.</strong></n>
 
